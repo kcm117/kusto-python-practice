@@ -1,0 +1,8 @@
+azure-kusto-data
+azure-kusto-ingest
+pylint
+black
+pandas
+ipython
+streamlit
+numpy
